@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 #hahah
+#我是github
 
 class Perceptron(object):
     def __init__(self, input_num, activator):
